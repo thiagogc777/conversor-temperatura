@@ -1,5 +1,9 @@
 # Conversor de Temperatura 🌡️
 
+💻 Veja a demonstração abaixo:
+
+![Demonstração do projeto](demo.gif)
+
 Este é um projeto simples de **Conversor de Temperatura** desenvolvido com:
 
 - **HTML**
@@ -21,12 +25,9 @@ Este é um projeto simples de **Conversor de Temperatura** desenvolvido com:
 
 ---
 
-## 🚀 Como rodar localmente
+## 🧑‍💻 Autor
 
-1. Clone este repositório.
-2. Abra o arquivo `index.html` no seu navegador.
+Desenvolvido por [**Thiago Rodrigues**](https://github.com/thiagogc777) 🚀  
+Técnico de smartphone e estudante de programação Full Stack.  
 
 ---
-
-## 🧑‍💻 Autor
-[Thiago Rodrigues](https://github.com/thiagogc777)
