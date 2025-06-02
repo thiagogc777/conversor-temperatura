@@ -1,21 +1,32 @@
-# Conversor de Temperatura
+# Conversor de Temperatura 🌡️
 
-Este é um projeto simples de conversor de temperatura desenvolvido com HTML, CSS e JavaScript.
+Este é um projeto simples de **Conversor de Temperatura** desenvolvido com:
 
-## 🎯 Funcionalidades
-- Conversão de Celsius para Fahrenheit.
-- Conversão de Fahrenheit para Celsius.
-- Interface simples e responsiva.
+- **HTML**
+- **CSS**
+- **JavaScript**
 
-## 🚀 Tecnologias utilizadas
-- HTML5
-- CSS3
-- JavaScript
+✅ Converte de Celsius para Fahrenheit e vice-versa.  
+✅ Responsivo e fácil de usar.
 
-## ✅ Como usar
-1. Digite a temperatura desejada.
-2. Selecione a conversão desejada.
-3. Clique em "Converter" e veja o resultado.
+🔗 [Acesse o projeto online aqui!](https://thiagogc777.github.io/conversor-temperatura/)
 
-## 👨‍💻 Autor
-Thiago Rodrigues
+---
+
+## 📚 Aprendizados
+
+- Manipulação do DOM com JavaScript.
+- Estilização com CSS.
+- Publicação de sites com **GitHub Pages**.
+
+---
+
+## 🚀 Como rodar localmente
+
+1. Clone este repositório.
+2. Abra o arquivo `index.html` no seu navegador.
+
+---
+
+## 🧑‍💻 Autor
+[Thiago Rodrigues](https://github.com/thiagogc777)
